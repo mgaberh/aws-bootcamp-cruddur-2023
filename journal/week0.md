@@ -23,3 +23,9 @@ sudo ./aws/install
 <br>
 
 ![aws install verification](assets/week-0-aws.png)
+
+
+<li>verify using aws with cli auto prompt </li>
+<br>
+
+![aws cli auto prompt verification](assets/week-0-aws-cli-auto-prompt.png)
