@@ -29,3 +29,12 @@ sudo ./aws/install
 <br>
 
 ![aws cli auto prompt verification](assets/week-0-aws-cli-auto-prompt.png)
+
+<br>
+<br>
+###  Configur and Verify AWS access and secrit keys
+<br>
+
+![aws_access_keys](assets/week-0-aws-configure.png)
+
+
