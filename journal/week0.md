@@ -32,9 +32,19 @@ sudo ./aws/install
 
 <br>
 <br>
+
 ###  Configur and Verify AWS access and secrit keys
+
 <br>
 
 ![aws_access_keys](assets/week-0-aws-configure.png)
+<br>
+<br>
+
+## recreate Lucid Chart
+<br>
+
+![Lucid_Chart](assets/week-0-Lucidchart.png)
+
 
 
