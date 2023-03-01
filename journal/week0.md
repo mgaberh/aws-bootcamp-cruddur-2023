@@ -41,7 +41,8 @@ sudo ./aws/install
 <br>
 <br>
 
-## recreate Lucid Chart
+## Recreate Lucid Chart [Lucid Chart Link](https://lucid.app/lucidchart/4072ec88-4d8e-491f-a2b7-b63d513dd01b/edit?viewport_loc=-15%2C24%2C2290%2C1054%2C0_0&invitationId=inv_c40e545c-e945-4b5b-8b5e-7261e12ac180)
+
 <br>
 
 ![Lucid_Chart](assets/week-0-Lucidchart.png)
